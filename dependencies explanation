@@ -1,0 +1,15 @@
+Dependencies
+You can add dependencies to your mod by simple adding other mods name in your mod.json:
+
+
+dependencies: [
+  other-mod-name
+  not-a-mod
+]
+The name of dependencies are lower-cased and spaces are replaced with - hyphens, for example Other MOD NamE becomes other-mod-name.
+
+To reference the other mods assets, you must prefix the asset with the other mods name:
+
+other-mod-name-not-copper would reference not-copper in other-mod-name
+other-mod-name-angry-dagger would reference angry-dagger in other-mod-name
+not-a-mod-angry-dagger would reference angry-dagger in not-a-mod
