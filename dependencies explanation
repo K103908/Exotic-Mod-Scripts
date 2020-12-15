@@ -1,5 +1,5 @@
 Dependencies
-You can add dependencies to your mod by simple adding other mods name in your mod.json:
+You can add dependencies to your mod by simply adding other mods name in your mod.json:
 
 
 dependencies: [
