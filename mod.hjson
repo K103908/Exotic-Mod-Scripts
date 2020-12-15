@@ -17,3 +17,6 @@ The Exotic Mod with scripting added on to it. The Mod will be a greater experien
   '''
 version: 1 alpha
 minGameVersion: 119
+dependencies: [
+    Exotic-Mod
+    ]
