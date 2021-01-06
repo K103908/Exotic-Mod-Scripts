@@ -1,22 +1,15 @@
 name: exotic-mod-scripts
-displayName: "[gold]Exotic [red]Mod [blue]scripts"
+displayName: "Exotic Mod: Scripted Extension"
 author:
   '''
-  [red]K103908 
-  (Hjsoner, Mapper, Leader) 
-  [#00004a]B[#000063]l[#000073]ueWo[]l[]f[]
-  [blue](Mapper, Spriter, Hjsoner)[]
-  [purple]Andromeda 
-  (Mapper)
-  [#FCC21B]Meep of Faith
-  (Spriter, Hjsoner, [#5c0606]Lost in scripting hell[#FCC21B])
+  K103908, BlueWolf, MEEP Of Faith, AndromedaFallen
   '''
 description:
   '''
-The Exotic Mod with scripting added on to it. The Mod will be a greater experience with this add on of sorts
+Exotic Mod's script extension. More pain and suffering.
   '''
-version: 1 alpha
-minGameVersion: 119
+version: 4 alpha
+minGameVersion: 122
 dependencies: [
-    Exotic-Mod
+    exotic-mod
     ]
