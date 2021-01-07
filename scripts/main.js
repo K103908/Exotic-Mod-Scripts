@@ -1,4 +1,4 @@
-require("units/hellfire")
+require("units/hellfire");
 
 var lastStand = extend (SectorPreset, "exotic-mod-last-stand", Planets.serpulo, 69, {
   localizedName: "Last Stand",
