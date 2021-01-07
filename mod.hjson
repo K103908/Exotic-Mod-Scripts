@@ -10,6 +10,4 @@ Exotic Mod's script extension. More pain and suffering.
   '''
 version: 4 alpha
 minGameVersion: 122
-dependencies: [
-    exotic-mod
-    ]
+dependencies: ["exotic-mod"]
