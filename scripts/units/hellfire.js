@@ -1,3 +1,3 @@
-const hellfire0 = Vars.content.getByName(ContentType.unit, "exotic-mod-hellfire");
-
-hellfire0.abilities.add(new ForceFieldAbility(300, 0.3, 1532400, 360));
+const hellfire = extendContent(UnitType, "exotic-mod-hellfire", {});
+hellfire.constructor = () => extend(UnitEntity, {});
+hellfire.abilities.add(new ForceFieldAbility(300, 0.5, 25463300, 360));
